@@ -35,8 +35,6 @@ public class Main {
 		System.out.println("-");
 		
 		devGabriely.progredir();
-		devGabriely.progredir();
-		devGabriely.progredir();
 		System.out.println("Conteúdos inscritos Gabriely" + devGabriely.getConteudosInscritos());
 		System.out.println("Conteúdos concluídos Gabriely" + devGabriely.getConteudosConcluidos());
 		System.out.println("XP: " + devGabriely.calcularTotalXp());
